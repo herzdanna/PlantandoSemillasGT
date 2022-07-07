@@ -1,0 +1,48 @@
+<?php
+
+return [
+    "home"  => "Inicio",
+    "work"  => ["title" => "Nuestro trabajo",
+        "what"   =>  ["title"   =>  "Que Hacemos", 
+            "option1"   =>  "Educación de Primera Infancia",
+            "option2"   =>  "Filosofía y Metodología",
+            "option3"   =>  "Desarrollo Comunitario Integral"
+        ],
+        "whatMovil"   =>  ["title"   =>  "Que Hacemos", 
+            "option1"   =>  "Qué Hacemos",
+            "option2"   =>  "Dónde",
+            "option3"   =>  "Nuestro Impacto"
+        ],
+        "where"   =>  ["title"   =>  "Donde", 
+            "option1"   =>  "Ubicaciones",
+            "option2"   =>  "Centro comunitario",
+        ],
+        "impact"   =>  ["title"   =>  "Impacto", 
+            "option1"   =>  "La necesidad de una educación de calidad",
+            "option2"   =>  "Nuestros Resultados",
+            "option3"   =>  "Transparencia financiera",
+            "option4"   =>  "Impacto"
+        ],
+    ],
+    "about"     =>  [ "title"   =>  "Nosotros", 
+        "option1"   =>  "Nuestra esencia",
+        "option2"   =>  "Nuestro equipo",
+    ],
+    "join"      =>  ["title"   =>  "Únete", 
+        "option1"   =>  "Programa de Apadrinamiento",
+        "option2"   =>  "Círculo de Amigos",
+        "option3"   =>  "Programas de Intercambio",
+        "option4"   =>  "Contacto",
+    ],
+    "stories"   =>  "Historias",
+    "lenguaje"  =>  "En",
+    "locate"=>'<img src="/assets/img/en.png" alt="" width="30px">',
+    "donate"    =>  "Dona ahora",
+    "locations" =>  "Ubicaciones",
+    "resources" =>  ["title"   =>  "Recursos", 
+        "option1"   =>  "Press",
+        "option2"   =>  "Video",
+        "option3"   =>  "Noticias"
+    ],
+    "offices"   =>  "Nuestras oficinas",
+];
